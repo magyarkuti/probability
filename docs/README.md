@@ -16,6 +16,10 @@ If you retake the final exam for any reason,
 it will still be worth 30 points in your grading, 
 thus it is important to do well on the quizzes, 
 because there is no way to make up for points you loose on those. 
+Those students who do not pass this way, may take any of the (repeat) exams, and must carry the scores of the mini quizzes. The maximum score in a repeat exam is 30 points and the above grading applies.
+The same rules and conditions apply to students who retake this course.
+All rules and conditions are regulated by the 
+[University Code of Study and Exams](http://portal.uni-corvinus.hu/fileadmin/user_upload/hu/kozponti_szervezeti_egysegek/nemzetkozi_iroda/files/Regulations_NEW_NEW/TVSZ/III_1_TVSZ_2017_december_19.pdf).
 * Results
 [after all Mini Quizzes](http://web.uni-corvinus.hu/magyarkuti/Results.pdf).(Time stamp: 14:19, 10 May 2020 (CEST))
 
