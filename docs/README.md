@@ -6,6 +6,7 @@ The [Course Syllabus](http://web.uni-corvinus.hu/~tallos/E_Matek_2.htm) contains
 The most important part is as follows:
 - Attendance of classes is compulsory. 
 - The Office Hours at Friday 2.00pm. Registration via e-mail is required not later then 10 pm of the actual day before.
+
 ### Grading 
 You will receive 5-5 points at maximum for your 4 Mini quizzes and 30 points for the Final exam. 
 Thus 50 points can be collected. 
@@ -15,9 +16,11 @@ If you retake the final exam for any reason,
 it will still be worth 30 points in your grading, 
 thus it is important to do well on the quizzes, 
 because there is no way to make up for points you loose on those. 
+
 ### Lecture Notes
-Professor Tallos writes a lecture note for you. 
-You can download here: 
+[Professor Tallos](web.uni-corvinus.hu/tallos)
+ writes a lecture note for you. 
+You can download his notes here: 
 [Lectures on Probability](http://web.uni-corvinus.hu/~tallos/Mat_E.pdf)
 
 Handouts about the Wednesday classes compiled by the instructor are available here, after each classes.
