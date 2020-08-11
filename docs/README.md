@@ -18,7 +18,7 @@ thus it is important to do well on the quizzes,
 because there is no way to make up for points you loose on those. 
 
 ### Lecture Notes
-[Professor Tallos](web.uni-corvinus.hu/tallos)
+[Professor Peter Tallos](http://web.uni-corvinus.hu/~tallos)
  writes a lecture note for you. 
 You can download his notes here: 
 [Lectures on Probability](http://web.uni-corvinus.hu/~tallos/Mat_E.pdf)
