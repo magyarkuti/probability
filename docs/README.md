@@ -67,7 +67,7 @@ The week by week schedule is as follows.
    * Uniform
    * Exponential
    * Standard normal
-   * Normal ([http://web.uni-corvinus.hu/magyarkuti/normalcurve.pdf)[Table of normal curve areas])
+   * Normal [Table of normal curve areas](http://web.uni-corvinus.hu/magyarkuti/normalcurve.pdf)
 
 1. [Joint probability distributions, marginal distributions](http://web.uni-corvinus.hu/magyarkuti/8-Probability.pdf)
    * Marginal distributions
