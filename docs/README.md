@@ -8,17 +8,16 @@ The most important part is as follows:
 - The Office Hours at Friday 2.00pm. Registration via e-mail is required not later then 10 pm of the actual day before.
 
 ### Grading 
-You will receive 5-5 points at maximum for your 4 Mini quizzes and 30 points for the Final exam. 
+* You will receive 5-5 points at maximum for your 4 Mini quizzes and 30 points for the Final exam. 
 Thus 50 points can be collected. 
-20 points is the limit to not to fail.
-There is no comprehensive final exam. 
+* 20 points is the limit to not to fail.
+* There is no comprehensive final exam. 
 If you retake the final exam for any reason, 
 it will still be worth 30 points in your grading, 
 thus it is important to do well on the quizzes, 
 because there is no way to make up for points you loose on those. 
-
-#### Results
-[after all Mini Quizzes](http://web.uni-corvinus.hu/magyarkuti/Results.pdf).14:19, 10 May 2020 (CEST)
+* Results
+[after all Mini Quizzes](http://web.uni-corvinus.hu/magyarkuti/Results.pdf).(Time stamp: 14:19, 10 May 2020 (CEST))
 
 ### Lecture Notes
 [Professor Peter Tallos](http://web.uni-corvinus.hu/~tallos)
