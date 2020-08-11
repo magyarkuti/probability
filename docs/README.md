@@ -1,5 +1,5 @@
 {% include head.html %}
-for the Spring semester of 2018-2019.
+for the Spring semester of 2019-2020.
 The Probability theory classes are based on the 9th edition of the book of 
 [Probability and Statistics for Engineers and Scientists](https://www.pearson.com/us/higher-education/product/Walpole-Probability-and-Statistics-for-Engineers-and-Scientists-9th-Edition/9780321629111.html).
 The [Course Syllabus](http://web.uni-corvinus.hu/~tallos/E_Matek_2.htm) contains more detailed information.
@@ -76,6 +76,7 @@ The week by week schedule is as follows.
    * Results  [http://web.uni-corvinus.hu/magyarkuti/Results.pdf)[after all Mini Quizzes].14:19, 10 May 2020 (CEST)
 
 1. Review
+
 <!---
 ==== Covariance and correlation 
 
