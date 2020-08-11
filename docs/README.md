@@ -17,6 +17,9 @@ it will still be worth 30 points in your grading,
 thus it is important to do well on the quizzes, 
 because there is no way to make up for points you loose on those. 
 
+#### Results
+[after all Mini Quizzes](http://web.uni-corvinus.hu/magyarkuti/Results.pdf).14:19, 10 May 2020 (CEST)
+
 ### Lecture Notes
 [Professor Peter Tallos](http://web.uni-corvinus.hu/~tallos)
  writes a lecture note for you. 
@@ -73,7 +76,6 @@ The week by week schedule is as follows.
    * Marginal distributions
    * Independency
    * Conditional expected value
-   * Results  [http://web.uni-corvinus.hu/magyarkuti/Results.pdf)[after all Mini Quizzes].14:19, 10 May 2020 (CEST)
 
 1. Review
 
